@@ -1,0 +1,25 @@
+.headers{
+    border: 2px solid black;
+    
+    }
+.headers a{ margin-bottom: 5px;}
+.headers h3{
+    letter-spacing:1px;
+    font-size :25px; 
+}
+.image{
+    height:300px;
+    width:450px;
+    display: block;
+
+}
+.mains h3{
+    font-size: 20px;
+    
+}
+.mains a{display:block;
+margin-top: 5px;}
+
+.footers h3{
+    font-size: 20px;
+}
